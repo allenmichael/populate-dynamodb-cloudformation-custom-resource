@@ -1,0 +1,30 @@
+{
+  "name": "populate-dynamo-table",
+  "version": "1.0.0",
+  "description": "CloudFormation Custom Resource to populate a DynamoDB Table through an import job",
+  "main": "populateDynamoTable.js",
+  "license": "Apache2.0",
+  "scripts": {
+    "build-ts": "tsc --build",
+    "lint": "tsc --noEmit && eslint \"**/*.{js,ts}\" --quiet --fix",
+    "build": "npm run build-ts && npm run lint"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-s3": "^3.388.0",
+    "@aws-sdk/client-translate": "^3.388.0",
+    "@types/aws-lambda": "^8.10.92",
+    "@types/jest": "^29.2.0",
+    "@types/node": "^18.11.4",
+    "@typescript-eslint/eslint-plugin": "^5.10.2",
+    "@typescript-eslint/parser": "^5.10.2",
+    "esbuild": "^0.14.14",
+    "esbuild-jest": "^0.5.0",
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^29.2.1",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}

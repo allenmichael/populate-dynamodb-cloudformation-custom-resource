@@ -1,0 +1,200 @@
+[
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Bonjour, tout le monde"
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Qu'y a-t-il dans ton sac à dos?"
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Où est le spectacle de punk rock?"
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Est-ce un restaurant végétalien?"
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "A quelle heure ferme le cimetière?"
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Je pense avoir reçu cette tronçonneuse par erreur."
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Non, j'ai commandé tout le gâteau."
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Cette pâtisserie est-elle désossée?"
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    },
+    {
+        "Item": {
+            "id": {
+                "S": ""
+            },
+            "correctTranslation": {
+                "S": ""
+            },
+            "solved": {
+                "BOOL": false
+            },
+            "phrase": {
+                "S": "Cette émission est diffusée depuis l'antenne au sommet de la tour Eiffel."
+            },
+            "phraseLanguage": {
+                "S": "fr"
+            },
+            "translationLanguage": {
+                "S": "en"
+            }
+        }
+    }
+]
